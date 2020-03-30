@@ -19,5 +19,12 @@
 # git init
 # .gitignore
     # create file on the project root: .gitignore
-    # www.gitignore.io
-# git add . && git commit -m 'Initial commit'
+    # www.gitignore.io (search by django)
+# git add . 
+# git commit -m 'Initial commit'
+
+# run python server: python manage.py runserver
+
+# create apps: python manage.py startapp pages
+
+# python manage.py collectstatic
