@@ -1,0 +1,23 @@
+
+# activate venv: source ./venv/bin/activate (enter)
+
+# get installed packages inside venv: pip freeze
+
+# get python version inside venv: python --version
+
+# install django (last version): pip install django
+# install django (specific version): pip install django==2.1.1
+
+# django-admin commands
+
+    # django-admin help
+    # django-admin startproject btre .
+    # 
+
+# python manage.py help
+
+# git init
+# .gitignore
+    # create file on the project root: .gitignore
+    # www.gitignore.io
+# git add . && git commit -m 'Initial commit'
