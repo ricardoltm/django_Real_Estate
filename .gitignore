@@ -10,3 +10,4 @@ venv
 /static
 commands.txt
 .vscode/
+.pylintrc
