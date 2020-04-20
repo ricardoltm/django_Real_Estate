@@ -133,3 +133,10 @@ img {
     font-size: 40px;
   }
 }
+
+.badge-light {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
